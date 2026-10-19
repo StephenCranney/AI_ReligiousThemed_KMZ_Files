@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Places near Jerusalem connected with the life of Christ</name>
+<open>1</open>
+<description><![CDATA[Detailed, citation-rich placemarks for Gospel geography in Jerusalem and the surrounding region. Folders separate strong geographic identifications, plausible locations, later commemorative traditions, and competing Emmaus proposals. A marker can identify the right town or landscape while the exact event-site remains unknown.]]></description>
+<LookAt><longitude>35.234</longitude><latitude>31.777</latitude><altitude>0</altitude><range>26000</range><tilt>25</tilt><heading>0</heading><altitudeMode>relativeToGround</altitudeMode></LookAt>
+<Style id="category-1"><IconStyle><color>ff32a852</color><scale>1.05</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle><LabelStyle><scale>0.85</scale></LabelStyle><BalloonStyle><text><![CDATA[<h2>$[name]</h2><div style="white-space:pre-wrap">$[description]</div>]]></text></BalloonStyle></Style>
+<Style id="category-2"><IconStyle><color>ff00a5ff</color><scale>1.05</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle><LabelStyle><scale>0.85</scale></LabelStyle><BalloonStyle><text><![CDATA[<h2>$[name]</h2><div style="white-space:pre-wrap">$[description]</div>]]></text></BalloonStyle></Style>
+<Style id="category-3"><IconStyle><color>ff3344cc</color><scale>1.05</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle><LabelStyle><scale>0.85</scale></LabelStyle><BalloonStyle><text><![CDATA[<h2>$[name]</h2><div style="white-space:pre-wrap">$[description]</div>]]></text></BalloonStyle></Style>
+<Style id="category-4"><IconStyle><color>ffcc66aa</color><scale>1.05</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle><LabelStyle><scale>0.85</scale></LabelStyle><BalloonStyle><text><![CDATA[<h2>$[name]</h2><div style="white-space:pre-wrap">$[description]</div>]]></text></BalloonStyle></Style>
+<Folder><name>1 — Strong geographic identifications</name><open>1</open><visibility>1</visibility>
+<Placemark>
+<name>Jerusalem — the historical setting</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the city; not an event-specific point. All four Gospels repeatedly place Jesus in Jerusalem, particularly at pilgrimage festivals and during the final week. The marker is centered on the ancient-city area rather than on a single building.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the city; not an event-specific point
+
+RELEVANT PASSAGES
+Luke 2:41-52; Mark 11-16; John 2:13-25
+
+WHY THE MARKER IS HERE
+All four Gospels repeatedly place Jesus in Jerusalem, particularly at pilgrimage festivals and during the final week. The marker is centered on the ancient-city area rather than on a single building.
+
+WHAT REMAINS UNCERTAIN
+The extent, walls, streets, and place names of first-century Jerusalem differ substantially from the modern Old City. A modern pin cannot represent the whole Herodian city.
+
+SCRIPTURE LINKS
+- Luke 2:41-52: https://www.biblegateway.com/passage/?search=Luke+2%3A41-52&version=NRSVUE
+- Mark 11-16: https://www.biblegateway.com/passage/?search=Mark+11-16&version=NRSVUE
+- John 2:13-25: https://www.biblegateway.com/passage/?search=John+2%3A13-25&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the city; not an event-specific point</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 2:41-52; Mark 11-16; John 2:13-25</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>All four Gospels repeatedly place Jesus in Jerusalem,</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>particularly at pilgrimage festivals and during the final week.</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>The marker is centered on the ancient-city area rather than on a</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>single building.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The extent, walls, streets, and place names of first-century</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>Jerusalem differ substantially from the modern Old City. A</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>modern pin cannot represent the whole Herodian city.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.234170,31.776670,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Temple Mount — Herodian Temple platform</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the platform; exact episode locations unknown. The surviving retaining walls and archaeological topography securely locate Herod&#x27;s Temple platform. The Gospels associate Jesus with presentation, teaching, festival visits, and actions in the Temple precincts.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the platform; exact episode locations unknown
+
+RELEVANT PASSAGES
+Luke 2:22-38; Luke 2:41-52; Mark 11:11-18; John 7-10
+
+WHY THE MARKER IS HERE
+The surviving retaining walls and archaeological topography securely locate Herod's Temple platform. The Gospels associate Jesus with presentation, teaching, festival visits, and actions in the Temple precincts.
+
+WHAT REMAINS UNCERTAIN
+The sanctuary and courts were destroyed in 70 CE. The marker does not claim that the Dome of the Rock, or any other precise point on the platform, was the location of a particular saying or action.
+
+SCRIPTURE LINKS
+- Luke 2:22-38: https://www.biblegateway.com/passage/?search=Luke+2%3A22-38&version=NRSVUE
+- Luke 2:41-52: https://www.biblegateway.com/passage/?search=Luke+2%3A41-52&version=NRSVUE
+- Mark 11:11-18: https://www.biblegateway.com/passage/?search=Mark+11%3A11-18&version=NRSVUE
+- John 7-10: https://www.biblegateway.com/passage/?search=John+7-10&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the platform; exact episode locations unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 2:22-38; Luke 2:41-52; Mark 11:11-18; John 7-10</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>The surviving retaining walls and archaeological topography</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>securely locate Herod&#x27;s Temple platform. The Gospels associate</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>Jesus with presentation, teaching, festival visits, and actions</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>in the Temple precincts.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>The sanctuary and courts were destroyed in 70 CE. The marker</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>does not claim that the Dome of the Rock, or any other precise</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>point on the platform, was the location of a particular saying</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>or action.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.235830,31.778060,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Southern Temple approaches and steps</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the Herodian approach; event link is contextual. The monumental stairways and gates on the south side formed a major public approach to the Temple in Jesus&#x27;s time. They provide a defensible spatial setting for pilgrims entering the precincts.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the Herodian approach; event link is contextual
+
+RELEVANT PASSAGES
+Luke 19:45-48; Luke 21:37-38
+
+WHY THE MARKER IS HERE
+The monumental stairways and gates on the south side formed a major public approach to the Temple in Jesus's time. They provide a defensible spatial setting for pilgrims entering the precincts.
+
+WHAT REMAINS UNCERTAIN
+No Gospel specifies which Temple gate or staircase Jesus used. Treat this as an archaeological context marker, not the identified location of a particular sermon.
+
+SCRIPTURE LINKS
+- Luke 19:45-48: https://www.biblegateway.com/passage/?search=Luke+19%3A45-48&version=NRSVUE
+- Luke 21:37-38: https://www.biblegateway.com/passage/?search=Luke+21%3A37-38&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the Herodian approach; event link is contextual</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 19:45-48; Luke 21:37-38</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>The monumental stairways and gates on the south side formed a</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>major public approach to the Temple in Jesus&#x27;s time. They</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>provide a defensible spatial setting for pilgrims entering the</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>precincts.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>No Gospel specifies which Temple gate or staircase Jesus used.</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>Treat this as an archaeological context marker, not the</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>identified location of a particular sermon.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.235420,31.775880,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pools of Bethesda</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High-to-moderate. Excavations north of the Temple revealed a double-pool complex whose division created a fifth portico, fitting John&#x27;s unusually specific description. The complex existed during the Second Temple period.</Snippet>
+<description><![CDATA[ASSESSMENT
+High-to-moderate
+
+RELEVANT PASSAGES
+John 5:1-18
+
+WHY THE MARKER IS HERE
+Excavations north of the Temple revealed a double-pool complex whose division created a fifth portico, fitting John's unusually specific description. The complex existed during the Second Temple period.
+
+WHAT REMAINS UNCERTAIN
+The identification is persuasive but not mathematically provable; scholars have proposed other Jerusalem pools, and the exact point of the healing within the complex is unknowable.
+
+SCRIPTURE LINKS
+- John 5:1-18: https://www.biblegateway.com/passage/?search=John+5%3A1-18&version=NRSVUE
+
+REFERENCES
+- Holy Land Photos: Pools of Bethesda: https://holylandphotos.org/browse.asp?s=1%2C2%2C6%2C19%2C378%2C398
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High-to-moderate</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 5:1-18</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>Excavations north of the Temple revealed a double-pool complex</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>whose division created a fifth portico, fitting John&#x27;s unusually</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>specific description. The complex existed during the Second</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>Temple period.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The identification is persuasive but not mathematically</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>provable; scholars have proposed other Jerusalem pools, and the</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>exact point of the healing within the complex is unknowable.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Holy Land Photos: Pools of Bethesda</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://holylandphotos.org/browse.asp?s=1%2C2%2C6%2C19%2C378%2C398</value></Data></ExtendedData>
+<Point><coordinates>35.235980,31.781480,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Second Temple-period Pool of Siloam</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High-to-moderate. A large stepped pool from the relevant period was uncovered at the southern end of the City of David in 2004. Its date, location, and function make it the leading identification for John&#x27;s Pool of Siloam.</Snippet>
+<description><![CDATA[ASSESSMENT
+High-to-moderate
+
+RELEVANT PASSAGES
+John 9:1-12
+
+WHY THE MARKER IS HERE
+A large stepped pool from the relevant period was uncovered at the southern end of the City of David in 2004. Its date, location, and function make it the leading identification for John's Pool of Siloam.
+
+WHAT REMAINS UNCERTAIN
+Only part of the pool is exposed, and direct proof tying the specific healing to this structure is impossible. Older visitors were often shown the smaller Byzantine pool farther north.
+
+SCRIPTURE LINKS
+- John 9:1-12: https://www.biblegateway.com/passage/?search=John+9%3A1-12&version=NRSVUE
+
+REFERENCES
+- Holy Land Photos: excavated Second Temple-period Pool of Siloam: https://holylandphotos.org/browse.asp?img=IJOTHT21&s=1%2C2%2C6%2C19%2C97
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High-to-moderate</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 9:1-12</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>A large stepped pool from the relevant period was uncovered at</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>the southern end of the City of David in 2004. Its date,</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>location, and function make it the leading identification for</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>John&#x27;s Pool of Siloam.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Only part of the pool is exposed, and direct proof tying the</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>specific healing to this structure is impossible. Older visitors</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>were often shown the smaller Byzantine pool farther north.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Holy Land Photos: excavated Second Temple-period Pool of Siloam</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://holylandphotos.org/browse.asp?img=IJOTHT21&amp;s=1%2C2%2C6%2C19%2C97</value></Data></ExtendedData>
+<Point><coordinates>35.235000,31.770560,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mount of Olives — ridge and teaching setting</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the landform; exact teaching point unknown. The ridge east of Jerusalem is an unmistakable geographic feature and is repeatedly named in the Passion narratives. Its western slope overlooks the Temple platform.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the landform; exact teaching point unknown
+
+RELEVANT PASSAGES
+Mark 13:1-37; Luke 21:37; Luke 22:39
+
+WHY THE MARKER IS HERE
+The ridge east of Jerusalem is an unmistakable geographic feature and is repeatedly named in the Passion narratives. Its western slope overlooks the Temple platform.
+
+WHAT REMAINS UNCERTAIN
+The pin marks the ridge generally. The Gospels do not supply coordinates for the Olivet discourse, nightly lodging, prayer, or post-resurrection events.
+
+SCRIPTURE LINKS
+- Mark 13:1-37: https://www.biblegateway.com/passage/?search=Mark+13%3A1-37&version=NRSVUE
+- Luke 21:37: https://www.biblegateway.com/passage/?search=Luke+21%3A37&version=NRSVUE
+- Luke 22:39: https://www.biblegateway.com/passage/?search=Luke+22%3A39&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the landform; exact teaching point unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Mark 13:1-37; Luke 21:37; Luke 22:39</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The ridge east of Jerusalem is an unmistakable geographic</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>feature and is repeatedly named in the Passion narratives. Its</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>western slope overlooks the Temple platform.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The pin marks the ridge generally. The Gospels do not supply</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>coordinates for the Olivet discourse, nightly lodging, prayer,</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>or post-resurrection events.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.243890,31.778330,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kidron Valley — route between city and Mount of Olives</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the valley; crossing point approximate. John explicitly says Jesus crossed the Kidron before entering a garden. The valley still separates the Temple ridge from the Mount of Olives and constrains the route geographically.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the valley; crossing point approximate
+
+RELEVANT PASSAGES
+John 18:1-2; Luke 22:39
+
+WHY THE MARKER IS HERE
+John explicitly says Jesus crossed the Kidron before entering a garden. The valley still separates the Temple ridge from the Mount of Olives and constrains the route geographically.
+
+WHAT REMAINS UNCERTAIN
+The ancient path and exact crossing have changed with erosion, fill, roads, and construction. This marker is a representative crossing, not a preserved footprint.
+
+SCRIPTURE LINKS
+- John 18:1-2: https://www.biblegateway.com/passage/?search=John+18%3A1-2&version=NRSVUE
+- Luke 22:39: https://www.biblegateway.com/passage/?search=Luke+22%3A39&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the valley; crossing point approximate</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 18:1-2; Luke 22:39</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>John explicitly says Jesus crossed the Kidron before entering a</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>garden. The valley still separates the Temple ridge from the</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Mount of Olives and constrains the route geographically.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The ancient path and exact crossing have changed with erosion,</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>fill, roads, and construction. This marker is a representative</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>crossing, not a preserved footprint.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.238400,31.777520,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bethany / al-Eizariya — village area</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the village identification. Al-Eizariya lies on the eastern slope of the Mount of Olives at the distance from Jerusalem given by John and preserves a long identification with Lazarus and Bethany.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the village identification
+
+RELEVANT PASSAGES
+John 11:1-44; John 12:1-8; Mark 11:11-12
+
+WHY THE MARKER IS HERE
+Al-Eizariya lies on the eastern slope of the Mount of Olives at the distance from Jerusalem given by John and preserves a long identification with Lazarus and Bethany.
+
+WHAT REMAINS UNCERTAIN
+Confidence in the town does not identify the houses of Mary, Martha, Simon, or Lazarus, nor does it prove that the presently shown tomb is Lazarus's tomb.
+
+SCRIPTURE LINKS
+- John 11:1-44: https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=NRSVUE
+- John 12:1-8: https://www.biblegateway.com/passage/?search=John+12%3A1-8&version=NRSVUE
+- Mark 11:11-12: https://www.biblegateway.com/passage/?search=Mark+11%3A11-12&version=NRSVUE
+
+REFERENCES
+- Hebrew University gazetteer: Bethany / el-Eizariya / Lazarion: https://dig.corps-cmhl.huji.ac.il/literary_sources/bethany-el-eizariya-lazarion-2
+- Tomb of Lazarus: history and limits of the identification: https://en.wikipedia.org/wiki/Tomb_of_Lazarus
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the village identification</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 11:1-44; John 12:1-8; Mark 11:11-12</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Al-Eizariya lies on the eastern slope of the Mount of Olives at</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>the distance from Jerusalem given by John and preserves a long</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>identification with Lazarus and Bethany.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Confidence in the town does not identify the houses of Mary,</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>Martha, Simon, or Lazarus, nor does it prove that the presently</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>shown tomb is Lazarus&#x27;s tomb.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Hebrew University gazetteer: Bethany / el-Eizariya / Lazarion</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://dig.corps-cmhl.huji.ac.il/literary_sources/bethany-el-eizariya-lazarion-2</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Tomb of Lazarus: history and limits of the identification</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://en.wikipedia.org/wiki/Tomb_of_Lazarus</value></Data></ExtendedData>
+<Point><coordinates>35.265200,31.770900,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bethlehem — Church of the Nativity area</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for Bethlehem; moderate-to-low for the exact grotto. Matthew and Luke identify Bethlehem as Jesus&#x27;s birthplace. The present basilica preserves an exceptionally early and continuous Christian location tradition centered on the grotto beneath it.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for Bethlehem; moderate-to-low for the exact grotto
+
+RELEVANT PASSAGES
+Matthew 2:1-18; Luke 2:1-20
+
+WHY THE MARKER IS HERE
+Matthew and Luke identify Bethlehem as Jesus's birthplace. The present basilica preserves an exceptionally early and continuous Christian location tradition centered on the grotto beneath it.
+
+WHAT REMAINS UNCERTAIN
+The Gospels identify the town but do not provide a street or cave. The specific grotto is traditional and cannot be archaeologically demonstrated as the birth room.
+
+SCRIPTURE LINKS
+- Matthew 2:1-18: https://www.biblegateway.com/passage/?search=Matthew+2%3A1-18&version=NRSVUE
+- Luke 2:1-20: https://www.biblegateway.com/passage/?search=Luke+2%3A1-20&version=NRSVUE
+
+REFERENCES
+- Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem: https://www.bibleodyssey.org/dictionary/bethlehem/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for Bethlehem; moderate-to-low for the exact grotto</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 2:1-18; Luke 2:1-20</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Matthew and Luke identify Bethlehem as Jesus&#x27;s birthplace. The</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>present basilica preserves an exceptionally early and continuous</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Christian location tradition centered on the grotto beneath it.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The Gospels identify the town but do not provide a street or</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>cave. The specific grotto is traditional and cannot be</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>archaeologically demonstrated as the birth room.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.bibleodyssey.org/dictionary/bethlehem/</value></Data></ExtendedData>
+<Point><coordinates>35.207580,31.704310,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Jericho — Tell es-Sultan and oasis area</name>
+<styleUrl>#category-1</styleUrl>
+<Snippet maxLines="4">High for the Jericho oasis; exact streets unknown. The ancient settlement and oasis of Jericho are securely located. The Gospels place the healing of blind beggars and the encounter with Zacchaeus in or near Jericho while Jesus traveled toward Jerusalem.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for the Jericho oasis; exact streets unknown
+
+RELEVANT PASSAGES
+Mark 10:46-52; Luke 18:35-19:10
+
+WHY THE MARKER IS HERE
+The ancient settlement and oasis of Jericho are securely located. The Gospels place the healing of blind beggars and the encounter with Zacchaeus in or near Jericho while Jesus traveled toward Jerusalem.
+
+WHAT REMAINS UNCERTAIN
+Jericho had more than one built center in the Roman period, including Herodian development south of the tell. The pin does not identify Zacchaeus's tree or a precise roadside location.
+
+SCRIPTURE LINKS
+- Mark 10:46-52: https://www.biblegateway.com/passage/?search=Mark+10%3A46-52&version=NRSVUE
+- Luke 18:35-19:10: https://www.biblegateway.com/passage/?search=Luke+18%3A35-19%3A10&version=NRSVUE
+
+REFERENCES
+- OpenStreetMap copyright and ODbL attribution: https://www.openstreetmap.org/copyright
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for the Jericho oasis; exact streets unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Mark 10:46-52; Luke 18:35-19:10</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>The ancient settlement and oasis of Jericho are securely</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>located. The Gospels place the healing of blind beggars and the</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>encounter with Zacchaeus in or near Jericho while Jesus traveled</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>toward Jerusalem.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Jericho had more than one built center in the Roman period,</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>including Herodian development south of the tell. The pin does</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>not identify Zacchaeus&#x27;s tree or a precise roadside location.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenStreetMap copyright and ODbL attribution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openstreetmap.org/copyright</value></Data></ExtendedData>
+<Point><coordinates>35.444010,31.870900,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>2 — Plausible sites with important qualifications</name><open>0</open><visibility>1</visibility>
+<Placemark>
+<name>Traditional Garden of Gethsemane</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate for the vicinity; low for the exact enclosure. The traditional garden lies across the Kidron on the lower Mount of Olives, matching the Gospel geography. Early Christian memory placed Gethsemane in this vicinity, and archaeology has found activity of the relevant period nearby.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate for the vicinity; low for the exact enclosure
+
+RELEVANT PASSAGES
+Matthew 26:36-56; Mark 14:32-52; Luke 22:39-53; John 18:1-12
+
+WHY THE MARKER IS HERE
+The traditional garden lies across the Kidron on the lower Mount of Olives, matching the Gospel geography. Early Christian memory placed Gethsemane in this vicinity, and archaeology has found activity of the relevant period nearby.
+
+WHAT REMAINS UNCERTAIN
+The exact garden is unknown, and the present enclosure is very small. Ancient Gethsemane may have included a broader olive-growing and processing area on the slope.
+
+SCRIPTURE LINKS
+- Matthew 26:36-56: https://www.biblegateway.com/passage/?search=Matthew+26%3A36-56&version=NRSVUE
+- Mark 14:32-52: https://www.biblegateway.com/passage/?search=Mark+14%3A32-52&version=NRSVUE
+- Luke 22:39-53: https://www.biblegateway.com/passage/?search=Luke+22%3A39-53&version=NRSVUE
+- John 18:1-12: https://www.biblegateway.com/passage/?search=John+18%3A1-12&version=NRSVUE
+
+REFERENCES
+- Gethsemane: traditions and archaeological caution: https://en.wikipedia.org/wiki/Gethsemane
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate for the vicinity; low for the exact enclosure</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 26:36-56; Mark 14:32-52; Luke 22:39-53; John 18:1-12</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>The traditional garden lies across the Kidron on the lower Mount</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>of Olives, matching the Gospel geography. Early Christian memory</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>placed Gethsemane in this vicinity, and archaeology has found</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>activity of the relevant period nearby.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The exact garden is unknown, and the present enclosure is very</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>small. Ancient Gethsemane may have included a broader</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>olive-growing and processing area on the slope.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Gethsemane: traditions and archaeological caution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://en.wikipedia.org/wiki/Gethsemane</value></Data></ExtendedData>
+<Point><coordinates>35.239670,31.779590,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gethsemane grotto / olive-press tradition</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Traditional; exact connection uncertain. A cave north of the modern garden has a long Christian tradition and may suit the name Gethsemane, commonly related to an oil press. It offers a plausible sheltered feature within the correct landscape.</Snippet>
+<description><![CDATA[ASSESSMENT
+Traditional; exact connection uncertain
+
+RELEVANT PASSAGES
+John 18:1-12
+
+WHY THE MARKER IS HERE
+A cave north of the modern garden has a long Christian tradition and may suit the name Gethsemane, commonly related to an oil press. It offers a plausible sheltered feature within the correct landscape.
+
+WHAT REMAINS UNCERTAIN
+Nothing identifies this particular cave in the Gospel text. It should be considered an alternative traditional focus within the Gethsemane area, not proof of the arrest spot.
+
+SCRIPTURE LINKS
+- John 18:1-12: https://www.biblegateway.com/passage/?search=John+18%3A1-12&version=NRSVUE
+
+REFERENCES
+- Gethsemane: traditions and archaeological caution: https://en.wikipedia.org/wiki/Gethsemane
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Traditional; exact connection uncertain</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 18:1-12</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>A cave north of the modern garden has a long Christian tradition</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>and may suit the name Gethsemane, commonly related to an oil</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>press. It offers a plausible sheltered feature within the</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>correct landscape.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Nothing identifies this particular cave in the Gospel text. It</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>should be considered an alternative traditional focus within the</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>Gethsemane area, not proof of the arrest spot.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Gethsemane: traditions and archaeological caution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://en.wikipedia.org/wiki/Gethsemane</value></Data></ExtendedData>
+<Point><coordinates>35.239640,31.779950,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bethphage — traditional church area</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate-to-low. The Synoptics place Bethphage by Bethany and the Mount of Olives on the Jerusalem approach. The traditional site at at-Tur fits the broad route and has an old pilgrimage history.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate-to-low
+
+RELEVANT PASSAGES
+Matthew 21:1-11; Mark 11:1-11; Luke 19:28-40
+
+WHY THE MARKER IS HERE
+The Synoptics place Bethphage by Bethany and the Mount of Olives on the Jerusalem approach. The traditional site at at-Tur fits the broad route and has an old pilgrimage history.
+
+WHAT REMAINS UNCERTAIN
+The ancient village has not been positively identified, and even the Synoptic wording leaves its precise relation to Bethany uncertain. The church marks tradition, not a demonstrated stable or mounting stone.
+
+SCRIPTURE LINKS
+- Matthew 21:1-11: https://www.biblegateway.com/passage/?search=Matthew+21%3A1-11&version=NRSVUE
+- Mark 11:1-11: https://www.biblegateway.com/passage/?search=Mark+11%3A1-11&version=NRSVUE
+- Luke 19:28-40: https://www.biblegateway.com/passage/?search=Luke+19%3A28-40&version=NRSVUE
+
+REFERENCES
+- Oxford Archaeological Guide discussion of Bethphage: https://ndl.ethernet.edu.et/bitstream/123456789/52968/1/18.Murphy-O%E2%80%99Connor.pdf
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate-to-low</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 21:1-11; Mark 11:1-11; Luke 19:28-40</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The Synoptics place Bethphage by Bethany and the Mount of Olives</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>on the Jerusalem approach. The traditional site at at-Tur fits</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>the broad route and has an old pilgrimage history.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>The ancient village has not been positively identified, and even</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>the Synoptic wording leaves its precise relation to Bethany</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>uncertain. The church marks tradition, not a demonstrated stable</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>or mounting stone.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Oxford Archaeological Guide discussion of Bethphage</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://ndl.ethernet.edu.et/bitstream/123456789/52968/1/18.Murphy-O%E2%80%99Connor.pdf</value></Data></ExtendedData>
+<Point><coordinates>35.250840,31.777620,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tomb of Lazarus — traditional cave</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Village secure; particular tomb merely possible. The shown tomb lies within securely identified Bethany and was being pointed out by the fourth century. It preserves a long, continuous pilgrimage tradition.</Snippet>
+<description><![CDATA[ASSESSMENT
+Village secure; particular tomb merely possible
+
+RELEVANT PASSAGES
+John 11:17-44
+
+WHY THE MARKER IS HERE
+The shown tomb lies within securely identified Bethany and was being pointed out by the fourth century. It preserves a long, continuous pilgrimage tradition.
+
+WHAT REMAINS UNCERTAIN
+The cave has been altered, and there is no inscription or decisive excavation connecting it to Lazarus. Even sources favorable to Bethany's identification distinguish the town from the much weaker claim for this exact tomb.
+
+SCRIPTURE LINKS
+- John 11:17-44: https://www.biblegateway.com/passage/?search=John+11%3A17-44&version=NRSVUE
+
+REFERENCES
+- Hebrew University gazetteer: Bethany / el-Eizariya / Lazarion: https://dig.corps-cmhl.huji.ac.il/literary_sources/bethany-el-eizariya-lazarion-2
+- Tomb of Lazarus: history and limits of the identification: https://en.wikipedia.org/wiki/Tomb_of_Lazarus
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Village secure; particular tomb merely possible</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 11:17-44</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The shown tomb lies within securely identified Bethany and was</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>being pointed out by the fourth century. It preserves a long,</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>continuous pilgrimage tradition.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>The cave has been altered, and there is no inscription or</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>decisive excavation connecting it to Lazarus. Even sources</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>favorable to Bethany&#x27;s identification distinguish the town from</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>the much weaker claim for this exact tomb.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Hebrew University gazetteer: Bethany / el-Eizariya / Lazarion</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://dig.corps-cmhl.huji.ac.il/literary_sources/bethany-el-eizariya-lazarion-2</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Tomb of Lazarus: history and limits of the identification</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://en.wikipedia.org/wiki/Tomb_of_Lazarus</value></Data></ExtendedData>
+<Point><coordinates>35.255900,31.771660,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Herod&#x27;s western palace — leading praetorium candidate</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate; leading scholarly proposal. Roman governors commonly occupied the client king&#x27;s palace when visiting Jerusalem. Literary and archaeological arguments therefore place Pilate&#x27;s praetorium at Herod&#x27;s palace near today&#x27;s Citadel/Jaffa Gate, rather than at Antonia.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate; leading scholarly proposal
+
+RELEVANT PASSAGES
+Mark 15:1-20; John 18:28-19:16
+
+WHY THE MARKER IS HERE
+Roman governors commonly occupied the client king's palace when visiting Jerusalem. Literary and archaeological arguments therefore place Pilate's praetorium at Herod's palace near today's Citadel/Jaffa Gate, rather than at Antonia.
+
+WHAT REMAINS UNCERTAIN
+The palace complex is incompletely preserved and the Gospels do not name the building. Antonia remains a major pilgrimage tradition and some scholars have proposed other palatial locations.
+
+SCRIPTURE LINKS
+- Mark 15:1-20: https://www.biblegateway.com/passage/?search=Mark+15%3A1-20&version=NRSVUE
+- John 18:28-19:16: https://www.biblegateway.com/passage/?search=John+18%3A28-19%3A16&version=NRSVUE
+
+REFERENCES
+- Routledge Encyclopedia of the Historical Jesus: praetorium discussion: https://azahari.blog/wp-content/uploads/2025/02/encyclopedia-of-historical-jesus.pdf
+- Study of trial-location and Passion-route logistics: https://scholarsarchive.byu.edu/studiaantiqua/vol22/iss1/5/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate; leading scholarly proposal</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Mark 15:1-20; John 18:28-19:16</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>Roman governors commonly occupied the client king&#x27;s palace when</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>visiting Jerusalem. Literary and archaeological arguments</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>therefore place Pilate&#x27;s praetorium at Herod&#x27;s palace near</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>today&#x27;s Citadel/Jaffa Gate, rather than at Antonia.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>The palace complex is incompletely preserved and the Gospels do</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>not name the building. Antonia remains a major pilgrimage</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>tradition and some scholars have proposed other palatial</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>locations.</value></Data><Data name="Source 1 1/2"><displayName>Source 1 1/2</displayName><value>Routledge Encyclopedia of the Historical Jesus: praetorium</value></Data><Data name="Source 1 2/2"><displayName>Source 1 2/2</displayName><value>discussion</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://azahari.blog/wp-content/uploads/2025/02/encyclopedia-of-historical-jesus.pdf</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Study of trial-location and Passion-route logistics</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://scholarsarchive.byu.edu/studiaantiqua/vol22/iss1/5/</value></Data></ExtendedData>
+<Point><coordinates>35.228200,31.776100,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Church of the Holy Sepulchre — Golgotha and tomb tradition</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Plausible and ancient; not certain. The site was a disused quarry and burial area outside the likely first-century wall. Constantine&#x27;s fourth-century complex replaced a Roman-period structure, suggesting an earlier local memory rather than a site selected merely because it looked like a hill.</Snippet>
+<description><![CDATA[ASSESSMENT
+Plausible and ancient; not certain
+
+RELEVANT PASSAGES
+Mark 15:20-16:8; John 19:17-20:18; Hebrews 13:12
+
+WHY THE MARKER IS HERE
+The site was a disused quarry and burial area outside the likely first-century wall. Constantine's fourth-century complex replaced a Roman-period structure, suggesting an earlier local memory rather than a site selected merely because it looked like a hill.
+
+WHAT REMAINS UNCERTAIN
+The precise course of Jerusalem's Second Wall remains debated, and archaeology cannot identify Jesus's individual cross or tomb. Some scholarship distinguishes the broader quarry of Golgotha from the exact points now shown inside the church.
+
+SCRIPTURE LINKS
+- Mark 15:20-16:8: https://www.biblegateway.com/passage/?search=Mark+15%3A20-16%3A8&version=NRSVUE
+- John 19:17-20:18: https://www.biblegateway.com/passage/?search=John+19%3A17-20%3A18&version=NRSVUE
+- Hebrews 13:12: https://www.biblegateway.com/passage/?search=Hebrews+13%3A12&version=NRSVUE
+
+REFERENCES
+- Cambridge, New Testament Studies: reconsidering Golgotha: https://www.cambridge.org/core/journals/new-testament-studies/article/abs/golgotha-a-reconsideration-of-the-evidence-for-the-sites-of-jesus-crucifixion-and-burial/EBF49AC4C712692B1834307624C143F9
+- Biblical Archaeology Society: evidence concerning Golgotha: https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/where-is-golgotha-where-jesus-was-crucified/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Plausible and ancient; not certain</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Mark 15:20-16:8; John 19:17-20:18; Hebrews 13:12</value></Data><Data name="Why here 1/5"><displayName>Why here 1/5</displayName><value>The site was a disused quarry and burial area outside the likely</value></Data><Data name="Why here 2/5"><displayName>Why here 2/5</displayName><value>first-century wall. Constantine&#x27;s fourth-century complex</value></Data><Data name="Why here 3/5"><displayName>Why here 3/5</displayName><value>replaced a Roman-period structure, suggesting an earlier local</value></Data><Data name="Why here 4/5"><displayName>Why here 4/5</displayName><value>memory rather than a site selected merely because it looked like</value></Data><Data name="Why here 5/5"><displayName>Why here 5/5</displayName><value>a hill.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>The precise course of Jerusalem&#x27;s Second Wall remains debated,</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>and archaeology cannot identify Jesus&#x27;s individual cross or</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>tomb. Some scholarship distinguishes the broader quarry of</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>Golgotha from the exact points now shown inside the church.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Cambridge, New Testament Studies: reconsidering Golgotha</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.cambridge.org/core/journals/new-testament-studies/article/abs/golgotha-a-reconsideration-of-the-evidence-for-the-sites-of-jesus-crucifixion-and-burial/EBF49AC4C712692B1834307624C143F9</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Biblical Archaeology Society: evidence concerning Golgotha</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/where-is-golgotha-where-jesus-was-crucified/</value></Data></ExtendedData>
+<Point><coordinates>35.229720,31.778330,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Akeldama / Field of Blood vicinity</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate for the traditional vicinity; low for exact parcel. Christian sources by the time of Eusebius located Akeldama in the Hinnom Valley south of Jerusalem. The area contains ancient burial caves and later structures associated with pilgrim burial.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate for the traditional vicinity; low for exact parcel
+
+RELEVANT PASSAGES
+Matthew 27:3-10; Acts 1:15-20
+
+WHY THE MARKER IS HERE
+Christian sources by the time of Eusebius located Akeldama in the Hinnom Valley south of Jerusalem. The area contains ancient burial caves and later structures associated with pilgrim burial.
+
+WHAT REMAINS UNCERTAIN
+Matthew and Acts explain the name differently and neither gives coordinates. The current monastery and burial building mark a long tradition, but the boundaries of the purchased 'field' are unknown.
+
+SCRIPTURE LINKS
+- Matthew 27:3-10: https://www.biblegateway.com/passage/?search=Matthew+27%3A3-10&version=NRSVUE
+- Acts 1:15-20: https://www.biblegateway.com/passage/?search=Acts+1%3A15-20&version=NRSVUE
+
+REFERENCES
+- Madain Project: Akeldama and its identification history: https://madainproject.com/akeldama
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate for the traditional vicinity; low for exact parcel</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 27:3-10; Acts 1:15-20</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>Christian sources by the time of Eusebius located Akeldama in</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>the Hinnom Valley south of Jerusalem. The area contains ancient</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>burial caves and later structures associated with pilgrim</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>burial.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>Matthew and Acts explain the name differently and neither gives</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>coordinates. The current monastery and burial building mark a</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>long tradition, but the boundaries of the purchased &#x27;field&#x27; are</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>unknown.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Madain Project: Akeldama and its identification history</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://madainproject.com/akeldama</value></Data></ExtendedData>
+<Point><coordinates>35.232880,31.768410,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Qasr al-Yahud — western-bank baptism tradition</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate for the lower-Jordan vicinity; exact bank unknown. Long-standing pilgrimage tradition places Jesus&#x27;s baptism in the lower Jordan east of Jericho. Qasr al-Yahud is the principal access point on the river&#x27;s western bank.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate for the lower-Jordan vicinity; exact bank unknown
+
+RELEVANT PASSAGES
+Matthew 3:13-17; Mark 1:9-11; Luke 3:21-22; John 1:28
+
+WHY THE MARKER IS HERE
+Long-standing pilgrimage tradition places Jesus's baptism in the lower Jordan east of Jericho. Qasr al-Yahud is the principal access point on the river's western bank.
+
+WHAT REMAINS UNCERTAIN
+The river has shifted and the phrase 'Bethany beyond the Jordan' is disputed. The Gospel accounts identify the Jordan region, not this exact landing or modern platform.
+
+SCRIPTURE LINKS
+- Matthew 3:13-17: https://www.biblegateway.com/passage/?search=Matthew+3%3A13-17&version=NRSVUE
+- Mark 1:9-11: https://www.biblegateway.com/passage/?search=Mark+1%3A9-11&version=NRSVUE
+- Luke 3:21-22: https://www.biblegateway.com/passage/?search=Luke+3%3A21-22&version=NRSVUE
+- John 1:28: https://www.biblegateway.com/passage/?search=John+1%3A28&version=NRSVUE
+
+REFERENCES
+- OpenStreetMap copyright and ODbL attribution: https://www.openstreetmap.org/copyright
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate for the lower-Jordan vicinity; exact bank unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 3:13-17; Mark 1:9-11; Luke 3:21-22; John 1:28</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Long-standing pilgrimage tradition places Jesus&#x27;s baptism in the</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>lower Jordan east of Jericho. Qasr al-Yahud is the principal</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>access point on the river&#x27;s western bank.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The river has shifted and the phrase &#x27;Bethany beyond the Jordan&#x27;</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>is disputed. The Gospel accounts identify the Jordan region, not</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>this exact landing or modern platform.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenStreetMap copyright and ODbL attribution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openstreetmap.org/copyright</value></Data></ExtendedData>
+<Point><coordinates>35.546050,31.837030,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Al-Maghtas — eastern-bank baptism tradition</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate for the lower-Jordan vicinity; exact channel unknown. Al-Maghtas preserves Byzantine churches, baptismal installations, and a major tradition on the Jordanian side, making it an important counterpart to Qasr al-Yahud.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate for the lower-Jordan vicinity; exact channel unknown
+
+RELEVANT PASSAGES
+John 1:28-34
+
+WHY THE MARKER IS HERE
+Al-Maghtas preserves Byzantine churches, baptismal installations, and a major tradition on the Jordanian side, making it an important counterpart to Qasr al-Yahud.
+
+WHAT REMAINS UNCERTAIN
+The remains document ancient Christian commemoration, not eyewitness proof of the precise baptism point. Ancient river channels and the location of John's Bethany remain debated.
+
+SCRIPTURE LINKS
+- John 1:28-34: https://www.biblegateway.com/passage/?search=John+1%3A28-34&version=NRSVUE
+
+REFERENCES
+- OpenStreetMap copyright and ODbL attribution: https://www.openstreetmap.org/copyright
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate for the lower-Jordan vicinity; exact channel unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 1:28-34</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Al-Maghtas preserves Byzantine churches, baptismal</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>installations, and a major tradition on the Jordanian side,</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>making it an important counterpart to Qasr al-Yahud.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The remains document ancient Christian commemoration, not</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>eyewitness proof of the precise baptism point. Ancient river</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>channels and the location of John&#x27;s Bethany remain debated.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenStreetMap copyright and ODbL attribution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openstreetmap.org/copyright</value></Data></ExtendedData>
+<Point><coordinates>35.549610,31.837130,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ephraim candidate — Taybeh</name>
+<styleUrl>#category-2</styleUrl>
+<Snippet maxLines="4">Moderate-to-low. John says Jesus withdrew to a town called Ephraim near the wilderness. Taybeh is a commonly proposed identification northeast of Jerusalem and lies near the transition toward wilderness country.</Snippet>
+<description><![CDATA[ASSESSMENT
+Moderate-to-low
+
+RELEVANT PASSAGES
+John 11:54
+
+WHY THE MARKER IS HERE
+John says Jesus withdrew to a town called Ephraim near the wilderness. Taybeh is a commonly proposed identification northeast of Jerusalem and lies near the transition toward wilderness country.
+
+WHAT REMAINS UNCERTAIN
+The identification is not certain; other sites have been proposed, and the marker represents the modern town rather than a known house or first-century street.
+
+SCRIPTURE LINKS
+- John 11:54: https://www.biblegateway.com/passage/?search=John+11%3A54&version=NRSVUE
+
+REFERENCES
+- OpenStreetMap copyright and ODbL attribution: https://www.openstreetmap.org/copyright
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Moderate-to-low</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 11:54</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>John says Jesus withdrew to a town called Ephraim near the</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>wilderness. Taybeh is a commonly proposed identification</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>northeast of Jerusalem and lies near the transition toward</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>wilderness country.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The identification is not certain; other sites have been</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>proposed, and the marker represents the modern town rather than</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>a known house or first-century street.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenStreetMap copyright and ODbL attribution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openstreetmap.org/copyright</value></Data></ExtendedData>
+<Point><coordinates>35.300100,31.953100,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>3 — Later commemorative traditions and alternatives</name><open>0</open><visibility>1</visibility>
+<Placemark>
+<name>Dominus Flevit — traditional place of lament</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Commemorative tradition. The church sits on the Mount of Olives with a direct view of Jerusalem and commemorates Jesus weeping over the city, which Luke places during the approach from the mount.</Snippet>
+<description><![CDATA[ASSESSMENT
+Commemorative tradition
+
+RELEVANT PASSAGES
+Luke 19:41-44
+
+WHY THE MARKER IS HERE
+The church sits on the Mount of Olives with a direct view of Jerusalem and commemorates Jesus weeping over the city, which Luke places during the approach from the mount.
+
+WHAT REMAINS UNCERTAIN
+Luke gives no exact stopping point. The modern church identifies a fitting viewpoint, not a location recoverable from the text.
+
+SCRIPTURE LINKS
+- Luke 19:41-44: https://www.biblegateway.com/passage/?search=Luke+19%3A41-44&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Commemorative tradition</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 19:41-44</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The church sits on the Mount of Olives with a direct view of</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>Jerusalem and commemorates Jesus weeping over the city, which</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Luke places during the approach from the mount.</value></Data><Data name="Uncertainty 1/2"><displayName>Uncertainty 1/2</displayName><value>Luke gives no exact stopping point. The modern church identifies</value></Data><Data name="Uncertainty 2/2"><displayName>Uncertainty 2/2</displayName><value>a fitting viewpoint, not a location recoverable from the text.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.241910,31.777990,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pater Noster / Eleona tradition</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Ancient commemoration; event location unknown. The site continues the Mount of Olives Eleona tradition and commemorates Jesus&#x27;s teaching, especially the Lord&#x27;s Prayer.</Snippet>
+<description><![CDATA[ASSESSMENT
+Ancient commemoration; event location unknown
+
+RELEVANT PASSAGES
+Matthew 6:5-15; Luke 11:1-4
+
+WHY THE MARKER IS HERE
+The site continues the Mount of Olives Eleona tradition and commemorates Jesus's teaching, especially the Lord's Prayer.
+
+WHAT REMAINS UNCERTAIN
+Matthew locates the prayer within the Sermon on the Mount without naming this ridge, while Luke gives no Mount of Olives location. The association is liturgical rather than geographical proof.
+
+SCRIPTURE LINKS
+- Matthew 6:5-15: https://www.biblegateway.com/passage/?search=Matthew+6%3A5-15&version=NRSVUE
+- Luke 11:1-4: https://www.biblegateway.com/passage/?search=Luke+11%3A1-4&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Ancient commemoration; event location unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 6:5-15; Luke 11:1-4</value></Data><Data name="Why here 1/2"><displayName>Why here 1/2</displayName><value>The site continues the Mount of Olives Eleona tradition and</value></Data><Data name="Why here 2/2"><displayName>Why here 2/2</displayName><value>commemorates Jesus&#x27;s teaching, especially the Lord&#x27;s Prayer.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>Matthew locates the prayer within the Sermon on the Mount</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>without naming this ridge, while Luke gives no Mount of Olives</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>location. The association is liturgical rather than geographical</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>proof.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.245190,31.778080,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chapel of the Ascension — traditional summit site</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Ancient tradition; exact point unknown. Acts places the ascension on the Mount of Olives, a Sabbath day&#x27;s journey from Jerusalem. The summit shrine preserves an old Christian commemoration.</Snippet>
+<description><![CDATA[ASSESSMENT
+Ancient tradition; exact point unknown
+
+RELEVANT PASSAGES
+Luke 24:50-53; Acts 1:6-12
+
+WHY THE MARKER IS HERE
+Acts places the ascension on the Mount of Olives, a Sabbath day's journey from Jerusalem. The summit shrine preserves an old Christian commemoration.
+
+WHAT REMAINS UNCERTAIN
+Luke mentions Bethany, Acts the Mount of Olives, and neither identifies a summit footprint. The chapel's claimed footprint is devotional, not demonstrable archaeology.
+
+SCRIPTURE LINKS
+- Luke 24:50-53: https://www.biblegateway.com/passage/?search=Luke+24%3A50-53&version=NRSVUE
+- Acts 1:6-12: https://www.biblegateway.com/passage/?search=Acts+1%3A6-12&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: Jerusalem coordinates and atlas bibliography: https://www.openbible.info/geo/modern/m66c5b8/jerusalem
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Ancient tradition; exact point unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 24:50-53; Acts 1:6-12</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Acts places the ascension on the Mount of Olives, a Sabbath</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>day&#x27;s journey from Jerusalem. The summit shrine preserves an old</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Christian commemoration.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Luke mentions Bethany, Acts the Mount of Olives, and neither</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>identifies a summit footprint. The chapel&#x27;s claimed footprint is</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>devotional, not demonstrable archaeology.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: Jerusalem coordinates and atlas bibliography</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/modern/m66c5b8/jerusalem</value></Data></ExtendedData>
+<Point><coordinates>35.245050,31.778900,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cenacle — traditional Upper Room</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Important tradition; existing room medieval. A long tradition places the Last Supper and later gatherings on southwestern Mount Zion. The location became a major focus of Christian memory.</Snippet>
+<description><![CDATA[ASSESSMENT
+Important tradition; existing room medieval
+
+RELEVANT PASSAGES
+Mark 14:12-26; Luke 22:7-38; Acts 1:12-14; Acts 2:1-4
+
+WHY THE MARKER IS HERE
+A long tradition places the Last Supper and later gatherings on southwestern Mount Zion. The location became a major focus of Christian memory.
+
+WHAT REMAINS UNCERTAIN
+The standing hall is medieval, the Gospels do not name the owner or quarter, and reconstructing continuity beneath the present building is disputed. It is not an intact first-century room.
+
+SCRIPTURE LINKS
+- Mark 14:12-26: https://www.biblegateway.com/passage/?search=Mark+14%3A12-26&version=NRSVUE
+- Luke 22:7-38: https://www.biblegateway.com/passage/?search=Luke+22%3A7-38&version=NRSVUE
+- Acts 1:12-14: https://www.biblegateway.com/passage/?search=Acts+1%3A12-14&version=NRSVUE
+- Acts 2:1-4: https://www.biblegateway.com/passage/?search=Acts+2%3A1-4&version=NRSVUE
+
+REFERENCES
+- Biblical Archaeology Society: Hunting for the Upper Room: https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hunting-for-the-upper-room-in-jerusalem/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Important tradition; existing room medieval</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Mark 14:12-26; Luke 22:7-38; Acts 1:12-14; Acts 2:1-4</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>A long tradition places the Last Supper and later gatherings on</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>southwestern Mount Zion. The location became a major focus of</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Christian memory.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The standing hall is medieval, the Gospels do not name the owner</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>or quarter, and reconstructing continuity beneath the present</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>building is disputed. It is not an intact first-century room.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Biblical Archaeology Society: Hunting for the Upper Room</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hunting-for-the-upper-room-in-jerusalem/</value></Data></ExtendedData>
+<Point><coordinates>35.229170,31.771760,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>St Mark&#x27;s Syriac Monastery — alternative Upper Room tradition</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Alternative ecclesiastical tradition. Syriac tradition identifies this site with the house of Mary, mother of John Mark, and the Upper Room. It demonstrates that more than one Jerusalem community preserved a localization.</Snippet>
+<description><![CDATA[ASSESSMENT
+Alternative ecclesiastical tradition
+
+RELEVANT PASSAGES
+Mark 14:12-26; Acts 12:12
+
+WHY THE MARKER IS HERE
+Syriac tradition identifies this site with the house of Mary, mother of John Mark, and the Upper Room. It demonstrates that more than one Jerusalem community preserved a localization.
+
+WHAT REMAINS UNCERTAIN
+Acts 12 names Mary's house but does not equate it with the Last Supper room. The identification cannot be independently established.
+
+SCRIPTURE LINKS
+- Mark 14:12-26: https://www.biblegateway.com/passage/?search=Mark+14%3A12-26&version=NRSVUE
+- Acts 12:12: https://www.biblegateway.com/passage/?search=Acts+12%3A12&version=NRSVUE
+
+REFERENCES
+- Biblical Archaeology Society: Hunting for the Upper Room: https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hunting-for-the-upper-room-in-jerusalem/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Alternative ecclesiastical tradition</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Mark 14:12-26; Acts 12:12</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Syriac tradition identifies this site with the house of Mary,</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>mother of John Mark, and the Upper Room. It demonstrates that</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>more than one Jerusalem community preserved a localization.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Acts 12 names Mary&#x27;s house but does not equate it with the Last</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>Supper room. The identification cannot be independently</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>established.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Biblical Archaeology Society: Hunting for the Upper Room</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hunting-for-the-upper-room-in-jerusalem/</value></Data></ExtendedData>
+<Point><coordinates>35.230480,31.775930,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>St Peter in Gallicantu — Caiaphas-house tradition</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Plausible district; exact house unproved. The church stands in the Upper City/Mount Zion area where elite priestly residences are plausible and commemorates Jesus before Caiaphas and Peter&#x27;s denial.</Snippet>
+<description><![CDATA[ASSESSMENT
+Plausible district; exact house unproved
+
+RELEVANT PASSAGES
+Matthew 26:57-75; Luke 22:54-71; John 18:12-27
+
+WHY THE MARKER IS HERE
+The church stands in the Upper City/Mount Zion area where elite priestly residences are plausible and commemorates Jesus before Caiaphas and Peter's denial.
+
+WHAT REMAINS UNCERTAIN
+The excavated remains do not name Caiaphas, and the underground chamber is not demonstrably Jesus's prison. Another Caiaphas tradition exists nearby at St Saviour.
+
+SCRIPTURE LINKS
+- Matthew 26:57-75: https://www.biblegateway.com/passage/?search=Matthew+26%3A57-75&version=NRSVUE
+- Luke 22:54-71: https://www.biblegateway.com/passage/?search=Luke+22%3A54-71&version=NRSVUE
+- John 18:12-27: https://www.biblegateway.com/passage/?search=John+18%3A12-27&version=NRSVUE
+
+REFERENCES
+- Wikidata: St Peter in Gallicantu location: https://www.wikidata.org/wiki/Q1861408
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Plausible district; exact house unproved</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 26:57-75; Luke 22:54-71; John 18:12-27</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The church stands in the Upper City/Mount Zion area where elite</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>priestly residences are plausible and commemorates Jesus before</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Caiaphas and Peter&#x27;s denial.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The excavated remains do not name Caiaphas, and the underground</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>chamber is not demonstrably Jesus&#x27;s prison. Another Caiaphas</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>tradition exists nearby at St Saviour.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Wikidata: St Peter in Gallicantu location</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.wikidata.org/wiki/Q1861408</value></Data></ExtendedData>
+<Point><coordinates>35.232110,31.771320,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Armenian St Saviour — alternative Caiaphas tradition</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Alternative medieval tradition. Armenian tradition locates the house of Caiaphas here, close to the Upper City and the better-known Gallicantu tradition.</Snippet>
+<description><![CDATA[ASSESSMENT
+Alternative medieval tradition
+
+RELEVANT PASSAGES
+John 18:13-28
+
+WHY THE MARKER IS HERE
+Armenian tradition locates the house of Caiaphas here, close to the Upper City and the better-known Gallicantu tradition.
+
+WHAT REMAINS UNCERTAIN
+The tradition is late and no archaeological evidence ties a recovered building to Caiaphas. Its value is chiefly as evidence that the exact house location is unresolved.
+
+SCRIPTURE LINKS
+- John 18:13-28: https://www.biblegateway.com/passage/?search=John+18%3A13-28&version=NRSVUE
+
+REFERENCES
+- Madain Project: Armenian Convent of Saint Saviour: https://madainproject.com/armenian_convent_of_saint_saviour
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Alternative medieval tradition</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 18:13-28</value></Data><Data name="Why here 1/2"><displayName>Why here 1/2</displayName><value>Armenian tradition locates the house of Caiaphas here, close to</value></Data><Data name="Why here 2/2"><displayName>Why here 2/2</displayName><value>the Upper City and the better-known Gallicantu tradition.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The tradition is late and no archaeological evidence ties a</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>recovered building to Caiaphas. Its value is chiefly as evidence</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>that the exact house location is unresolved.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Madain Project: Armenian Convent of Saint Saviour</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://madainproject.com/armenian_convent_of_saint_saviour</value></Data></ExtendedData>
+<Point><coordinates>35.229230,31.772350,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Antonia Fortress — traditional trial vicinity</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Fortress location approximate; trial claim disputed. Antonia guarded the Temple&#x27;s northwest corner and became the traditional eastern starting point for Jesus&#x27;s trial and the Via Dolorosa.</Snippet>
+<description><![CDATA[ASSESSMENT
+Fortress location approximate; trial claim disputed
+
+RELEVANT PASSAGES
+John 18:28-19:16
+
+WHY THE MARKER IS HERE
+Antonia guarded the Temple's northwest corner and became the traditional eastern starting point for Jesus's trial and the Via Dolorosa.
+
+WHAT REMAINS UNCERTAIN
+There is no firm archaeological link between Antonia and Pilate's praetorium. Many modern scholars favor Herod's western palace, which would produce a very different Passion route.
+
+SCRIPTURE LINKS
+- John 18:28-19:16: https://www.biblegateway.com/passage/?search=John+18%3A28-19%3A16&version=NRSVUE
+
+REFERENCES
+- Routledge Encyclopedia of the Historical Jesus: praetorium discussion: https://azahari.blog/wp-content/uploads/2025/02/encyclopedia-of-historical-jesus.pdf
+- Study of trial-location and Passion-route logistics: https://scholarsarchive.byu.edu/studiaantiqua/vol22/iss1/5/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Fortress location approximate; trial claim disputed</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 18:28-19:16</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Antonia guarded the Temple&#x27;s northwest corner and became the</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>traditional eastern starting point for Jesus&#x27;s trial and the Via</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Dolorosa.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>There is no firm archaeological link between Antonia and</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>Pilate&#x27;s praetorium. Many modern scholars favor Herod&#x27;s western</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>palace, which would produce a very different Passion route.</value></Data><Data name="Source 1 1/2"><displayName>Source 1 1/2</displayName><value>Routledge Encyclopedia of the Historical Jesus: praetorium</value></Data><Data name="Source 1 2/2"><displayName>Source 1 2/2</displayName><value>discussion</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://azahari.blog/wp-content/uploads/2025/02/encyclopedia-of-historical-jesus.pdf</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Study of trial-location and Passion-route logistics</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://scholarsarchive.byu.edu/studiaantiqua/vol22/iss1/5/</value></Data></ExtendedData>
+<Point><coordinates>35.235620,31.781100,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ecce Homo / Lithostrotos pavement tradition</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Devotional identification; pavement largely later Roman. The Sisters of Zion convent preserves paving and an arch long associated with Pilate&#x27;s judgment and &#x27;Ecce Homo.&#x27; It anchors the current devotional Via Dolorosa.</Snippet>
+<description><![CDATA[ASSESSMENT
+Devotional identification; pavement largely later Roman
+
+RELEVANT PASSAGES
+John 19:5-13
+
+WHY THE MARKER IS HERE
+The Sisters of Zion convent preserves paving and an arch long associated with Pilate's judgment and 'Ecce Homo.' It anchors the current devotional Via Dolorosa.
+
+WHAT REMAINS UNCERTAIN
+Much of the visible pavement and arch belong to Aelia Capitolina after 70 CE, too late for Jesus's trial. The identification also depends on the disputed Antonia-praetorium theory.
+
+SCRIPTURE LINKS
+- John 19:5-13: https://www.biblegateway.com/passage/?search=John+19%3A5-13&version=NRSVUE
+
+REFERENCES
+- Routledge Encyclopedia of the Historical Jesus: praetorium discussion: https://azahari.blog/wp-content/uploads/2025/02/encyclopedia-of-historical-jesus.pdf
+- Study of trial-location and Passion-route logistics: https://scholarsarchive.byu.edu/studiaantiqua/vol22/iss1/5/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Devotional identification; pavement largely later Roman</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 19:5-13</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The Sisters of Zion convent preserves paving and an arch long</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>associated with Pilate&#x27;s judgment and &#x27;Ecce Homo.&#x27; It anchors</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>the current devotional Via Dolorosa.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Much of the visible pavement and arch belong to Aelia Capitolina</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>after 70 CE, too late for Jesus&#x27;s trial. The identification also</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>depends on the disputed Antonia-praetorium theory.</value></Data><Data name="Source 1 1/2"><displayName>Source 1 1/2</displayName><value>Routledge Encyclopedia of the Historical Jesus: praetorium</value></Data><Data name="Source 1 2/2"><displayName>Source 1 2/2</displayName><value>discussion</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://azahari.blog/wp-content/uploads/2025/02/encyclopedia-of-historical-jesus.pdf</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Study of trial-location and Passion-route logistics</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://scholarsarchive.byu.edu/studiaantiqua/vol22/iss1/5/</value></Data></ExtendedData>
+<Point><coordinates>35.233360,31.780320,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Garden Tomb — nineteenth-century alternative</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Low as Jesus&#x27;s tomb; important modern devotional site. The garden-like setting, rock-cut tomb, and nearby cliff suggested an evocative alternative to the Holy Sepulchre for some Protestant visitors beginning in the nineteenth century.</Snippet>
+<description><![CDATA[ASSESSMENT
+Low as Jesus's tomb; important modern devotional site
+
+RELEVANT PASSAGES
+John 19:38-42
+
+WHY THE MARKER IS HERE
+The garden-like setting, rock-cut tomb, and nearby cliff suggested an evocative alternative to the Holy Sepulchre for some Protestant visitors beginning in the nineteenth century.
+
+WHAT REMAINS UNCERTAIN
+Archaeological dating generally places the tomb centuries earlier than Jesus and later reuse does not make it a newly cut first-century tomb. Its claim is substantially weaker than the Holy Sepulchre tradition.
+
+SCRIPTURE LINKS
+- John 19:38-42: https://www.biblegateway.com/passage/?search=John+19%3A38-42&version=NRSVUE
+
+REFERENCES
+- Cambridge, New Testament Studies: reconsidering Golgotha: https://www.cambridge.org/core/journals/new-testament-studies/article/abs/golgotha-a-reconsideration-of-the-evidence-for-the-sites-of-jesus-crucifixion-and-burial/EBF49AC4C712692B1834307624C143F9
+- Review of Holy Sepulchre and Garden Tomb evidence: https://rsc.byu.edu/vol-4-no-1-2003/revisiting-golgotha-garden-tomb
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Low as Jesus&#x27;s tomb; important modern devotional site</value></Data><Data name="Passages"><displayName>Passages</displayName><value>John 19:38-42</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The garden-like setting, rock-cut tomb, and nearby cliff</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>suggested an evocative alternative to the Holy Sepulchre for</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>some Protestant visitors beginning in the nineteenth century.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>Archaeological dating generally places the tomb centuries</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>earlier than Jesus and later reuse does not make it a newly cut</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>first-century tomb. Its claim is substantially weaker than the</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>Holy Sepulchre tradition.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Cambridge, New Testament Studies: reconsidering Golgotha</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.cambridge.org/core/journals/new-testament-studies/article/abs/golgotha-a-reconsideration-of-the-evidence-for-the-sites-of-jesus-crucifixion-and-burial/EBF49AC4C712692B1834307624C143F9</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Review of Holy Sepulchre and Garden Tomb evidence</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://rsc.byu.edu/vol-4-no-1-2003/revisiting-golgotha-garden-tomb</value></Data></ExtendedData>
+<Point><coordinates>35.230150,31.783960,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Monastery of St Onuphrius — Akeldama commemoration</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Traditional monument within likely Akeldama vicinity. The monastery occupies the southern Hinnom slope amid ancient tombs and marks the long Akeldama tradition.</Snippet>
+<description><![CDATA[ASSESSMENT
+Traditional monument within likely Akeldama vicinity
+
+RELEVANT PASSAGES
+Matthew 27:3-10; Acts 1:15-20
+
+WHY THE MARKER IS HERE
+The monastery occupies the southern Hinnom slope amid ancient tombs and marks the long Akeldama tradition.
+
+WHAT REMAINS UNCERTAIN
+The monastery is not the field purchased in the first century, and claims about a precise place where Judas died cannot be reconciled securely from Matthew and Acts.
+
+SCRIPTURE LINKS
+- Matthew 27:3-10: https://www.biblegateway.com/passage/?search=Matthew+27%3A3-10&version=NRSVUE
+- Acts 1:15-20: https://www.biblegateway.com/passage/?search=Acts+1%3A15-20&version=NRSVUE
+
+REFERENCES
+- Madain Project: Akeldama and its identification history: https://madainproject.com/akeldama
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Traditional monument within likely Akeldama vicinity</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 27:3-10; Acts 1:15-20</value></Data><Data name="Why here 1/2"><displayName>Why here 1/2</displayName><value>The monastery occupies the southern Hinnom slope amid ancient</value></Data><Data name="Why here 2/2"><displayName>Why here 2/2</displayName><value>tombs and marks the long Akeldama tradition.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The monastery is not the field purchased in the first century,</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>and claims about a precise place where Judas died cannot be</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>reconciled securely from Matthew and Acts.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Madain Project: Akeldama and its identification history</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://madainproject.com/akeldama</value></Data></ExtendedData>
+<Point><coordinates>35.233330,31.768190,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Catholic Shepherds&#x27; Field — Beit Sahour</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Regional tradition; exact field unknown. This pin is placed on the Franciscan Shepherds&#x27; Field Chapel (Gloria in excelsis Deo), the location shown to visitors as the Catholic traditional site. The rolling country east of Bethlehem suits Luke&#x27;s general setting, and the compound preserves caves and an old commemoration of the shepherds.</Snippet>
+<description><![CDATA[ASSESSMENT
+Regional tradition; exact field unknown
+
+RELEVANT PASSAGES
+Luke 2:8-20
+
+WHY THE MARKER IS HERE
+This pin is placed on the Franciscan Shepherds' Field Chapel (Gloria in excelsis Deo), the location shown to visitors as the Catholic traditional site. The rolling country east of Bethlehem suits Luke's general setting, and the compound preserves caves and an old commemoration of the shepherds.
+
+WHAT REMAINS UNCERTAIN
+Luke names no village, owner, or parcel. This is one of several competing fields around Beit Sahour and cannot be singled out archaeologically.
+
+SCRIPTURE LINKS
+- Luke 2:8-20: https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=NRSVUE
+
+REFERENCES
+- Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem: https://www.bibleodyssey.org/dictionary/bethlehem/
+- Franciscan Shepherds' Field chapel and mapped coordinates: https://www.octagonproject.org/news/the-shepherds%E2%80%99-field---franciscan
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Regional tradition; exact field unknown</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 2:8-20</value></Data><Data name="Why here 1/5"><displayName>Why here 1/5</displayName><value>This pin is placed on the Franciscan Shepherds&#x27; Field Chapel</value></Data><Data name="Why here 2/5"><displayName>Why here 2/5</displayName><value>(Gloria in excelsis Deo), the location shown to visitors as the</value></Data><Data name="Why here 3/5"><displayName>Why here 3/5</displayName><value>Catholic traditional site. The rolling country east of Bethlehem</value></Data><Data name="Why here 4/5"><displayName>Why here 4/5</displayName><value>suits Luke&#x27;s general setting, and the compound preserves caves</value></Data><Data name="Why here 5/5"><displayName>Why here 5/5</displayName><value>and an old commemoration of the shepherds.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Luke names no village, owner, or parcel. This is one of several</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>competing fields around Beit Sahour and cannot be singled out</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>archaeologically.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.bibleodyssey.org/dictionary/bethlehem/</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Franciscan Shepherds&#x27; Field chapel and mapped coordinates</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://www.octagonproject.org/news/the-shepherds%E2%80%99-field---franciscan</value></Data></ExtendedData>
+<Point><coordinates>35.230110,31.707310,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Greek Orthodox Shepherds&#x27; Field — alternative</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Alternative regional tradition. This pin is placed on the Greek Orthodox Shepherds&#x27; Field church and monastery, the location shown to visitors as the Orthodox traditional site. It is another ancient Christian focus east of Bethlehem, illustrating that the event belongs to a landscape rather than an identifiable historical parcel.</Snippet>
+<description><![CDATA[ASSESSMENT
+Alternative regional tradition
+
+RELEVANT PASSAGES
+Luke 2:8-20
+
+WHY THE MARKER IS HERE
+This pin is placed on the Greek Orthodox Shepherds' Field church and monastery, the location shown to visitors as the Orthodox traditional site. It is another ancient Christian focus east of Bethlehem, illustrating that the event belongs to a landscape rather than an identifiable historical parcel.
+
+WHAT REMAINS UNCERTAIN
+No evidence chooses this site over the Catholic field or other nearby grazing land. The marker documents the alternative tradition.
+
+SCRIPTURE LINKS
+- Luke 2:8-20: https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=NRSVUE
+
+REFERENCES
+- Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem: https://www.bibleodyssey.org/dictionary/bethlehem/
+- Greek Orthodox Shepherds' Field church and mapped coordinates: https://www.octagonproject.org/news/the-orthodox-shepherds%E2%80%99-field
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Alternative regional tradition</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 2:8-20</value></Data><Data name="Why here 1/5"><displayName>Why here 1/5</displayName><value>This pin is placed on the Greek Orthodox Shepherds&#x27; Field church</value></Data><Data name="Why here 2/5"><displayName>Why here 2/5</displayName><value>and monastery, the location shown to visitors as the Orthodox</value></Data><Data name="Why here 3/5"><displayName>Why here 3/5</displayName><value>traditional site. It is another ancient Christian focus east of</value></Data><Data name="Why here 4/5"><displayName>Why here 4/5</displayName><value>Bethlehem, illustrating that the event belongs to a landscape</value></Data><Data name="Why here 5/5"><displayName>Why here 5/5</displayName><value>rather than an identifiable historical parcel.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>No evidence chooses this site over the Catholic field or other</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>nearby grazing land. The marker documents the alternative</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>tradition.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.bibleodyssey.org/dictionary/bethlehem/</value></Data><Data name="Source 2"><displayName>Source 2</displayName><value>Greek Orthodox Shepherds&#x27; Field church and mapped coordinates</value></Data><Data name="Source 2 URL — click to copy"><displayName>Source 2 URL — click to copy</displayName><value>https://www.octagonproject.org/news/the-orthodox-shepherds%E2%80%99-field</value></Data></ExtendedData>
+<Point><coordinates>35.226560,31.701960,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ein Karem — St John Ba Harim tradition</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Strong later tradition; biblical town unnamed. The church commemorates the birth of John the Baptist in Ein Karem, a long-standing Christian identification west of Jerusalem.</Snippet>
+<description><![CDATA[ASSESSMENT
+Strong later tradition; biblical town unnamed
+
+RELEVANT PASSAGES
+Luke 1:5-25; Luke 1:57-80
+
+WHY THE MARKER IS HERE
+The church commemorates the birth of John the Baptist in Ein Karem, a long-standing Christian identification west of Jerusalem.
+
+WHAT REMAINS UNCERTAIN
+Luke says only that Zechariah and Elizabeth lived in a town in Judea's hill country. It never names Ein Karem, and the precise birthplace is not recoverable.
+
+SCRIPTURE LINKS
+- Luke 1:5-25: https://www.biblegateway.com/passage/?search=Luke+1%3A5-25&version=NRSVUE
+- Luke 1:57-80: https://www.biblegateway.com/passage/?search=Luke+1%3A57-80&version=NRSVUE
+
+REFERENCES
+- Church of the Visitation and the non-specific wording of Luke: https://en.wikipedia.org/wiki/Church_of_the_Visitation
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Strong later tradition; biblical town unnamed</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 1:5-25; Luke 1:57-80</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The church commemorates the birth of John the Baptist in Ein</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>Karem, a long-standing Christian identification west of</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Jerusalem.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Luke says only that Zechariah and Elizabeth lived in a town in</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>Judea&#x27;s hill country. It never names Ein Karem, and the precise</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>birthplace is not recoverable.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Church of the Visitation and the non-specific wording of Luke</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://en.wikipedia.org/wiki/Church_of_the_Visitation</value></Data></ExtendedData>
+<Point><coordinates>35.162910,31.768010,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ein Karem — Church of the Visitation</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Strong later tradition; event site unproved. The hillside church commemorates Mary&#x27;s visit to Elizabeth and the Magnificat within the traditional Ein Karem landscape.</Snippet>
+<description><![CDATA[ASSESSMENT
+Strong later tradition; event site unproved
+
+RELEVANT PASSAGES
+Luke 1:39-56
+
+WHY THE MARKER IS HERE
+The hillside church commemorates Mary's visit to Elizabeth and the Magnificat within the traditional Ein Karem landscape.
+
+WHAT REMAINS UNCERTAIN
+Luke names neither Ein Karem nor a particular house, saying only 'a town in the hill country of Judea.' The church is a devotional localization.
+
+SCRIPTURE LINKS
+- Luke 1:39-56: https://www.biblegateway.com/passage/?search=Luke+1%3A39-56&version=NRSVUE
+
+REFERENCES
+- Church of the Visitation and the non-specific wording of Luke: https://en.wikipedia.org/wiki/Church_of_the_Visitation
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Strong later tradition; event site unproved</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 1:39-56</value></Data><Data name="Why here 1/2"><displayName>Why here 1/2</displayName><value>The hillside church commemorates Mary&#x27;s visit to Elizabeth and</value></Data><Data name="Why here 2/2"><displayName>Why here 2/2</displayName><value>the Magnificat within the traditional Ein Karem landscape.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>Luke names neither Ein Karem nor a particular house, saying only</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>&#x27;a town in the hill country of Judea.&#x27; The church is a</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>devotional localization.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Church of the Visitation and the non-specific wording of Luke</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://en.wikipedia.org/wiki/Church_of_the_Visitation</value></Data></ExtendedData>
+<Point><coordinates>35.157860,31.764580,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Herodium — Herod the Great context</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">High for Herod&#x27;s palace; indirect connection to Jesus. Herodium was Herod the Great&#x27;s palace-fortress and later burial place, visibly dominating the region southeast of Bethlehem. It supplies unusually concrete political and monumental context for Matthew&#x27;s infancy narrative.</Snippet>
+<description><![CDATA[ASSESSMENT
+High for Herod's palace; indirect connection to Jesus
+
+RELEVANT PASSAGES
+Matthew 2:1-18
+
+WHY THE MARKER IS HERE
+Herodium was Herod the Great's palace-fortress and later burial place, visibly dominating the region southeast of Bethlehem. It supplies unusually concrete political and monumental context for Matthew's infancy narrative.
+
+WHAT REMAINS UNCERTAIN
+No Gospel says Jesus, Mary, Joseph, or the Magi visited Herodium. This is contextual, not an event marker.
+
+SCRIPTURE LINKS
+- Matthew 2:1-18: https://www.biblegateway.com/passage/?search=Matthew+2%3A1-18&version=NRSVUE
+
+REFERENCES
+- Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem: https://www.bibleodyssey.org/dictionary/bethlehem/
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>High for Herod&#x27;s palace; indirect connection to Jesus</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 2:1-18</value></Data><Data name="Why here 1/4"><displayName>Why here 1/4</displayName><value>Herodium was Herod the Great&#x27;s palace-fortress and later burial</value></Data><Data name="Why here 2/4"><displayName>Why here 2/4</displayName><value>place, visibly dominating the region southeast of Bethlehem. It</value></Data><Data name="Why here 3/4"><displayName>Why here 3/4</displayName><value>supplies unusually concrete political and monumental context for</value></Data><Data name="Why here 4/4"><displayName>Why here 4/4</displayName><value>Matthew&#x27;s infancy narrative.</value></Data><Data name="Uncertainty 1/2"><displayName>Uncertainty 1/2</displayName><value>No Gospel says Jesus, Mary, Joseph, or the Magi visited</value></Data><Data name="Uncertainty 2/2"><displayName>Uncertainty 2/2</displayName><value>Herodium. This is contextual, not an event marker.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>Bible Odyssey / HarperCollins Bible Dictionary: Bethlehem</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.bibleodyssey.org/dictionary/bethlehem/</value></Data></ExtendedData>
+<Point><coordinates>35.241300,31.665200,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mount of Temptation — traditional wilderness site</name>
+<styleUrl>#category-3</styleUrl>
+<Snippet maxLines="4">Traditional; exact wilderness location unspecified. The dramatic cliff west of Jericho has a long monastic tradition connecting it with Jesus&#x27;s temptation after baptism and fits the Judean wilderness landscape.</Snippet>
+<description><![CDATA[ASSESSMENT
+Traditional; exact wilderness location unspecified
+
+RELEVANT PASSAGES
+Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13
+
+WHY THE MARKER IS HERE
+The dramatic cliff west of Jericho has a long monastic tradition connecting it with Jesus's temptation after baptism and fits the Judean wilderness landscape.
+
+WHAT REMAINS UNCERTAIN
+The Gospels name only the wilderness and do not identify a mountain beside Jericho. The monastery marks a devotional tradition, not a textually fixed site.
+
+SCRIPTURE LINKS
+- Matthew 4:1-11: https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11&version=NRSVUE
+- Mark 1:12-13: https://www.biblegateway.com/passage/?search=Mark+1%3A12-13&version=NRSVUE
+- Luke 4:1-13: https://www.biblegateway.com/passage/?search=Luke+4%3A1-13&version=NRSVUE
+
+REFERENCES
+- OpenStreetMap copyright and ODbL attribution: https://www.openstreetmap.org/copyright
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Traditional; exact wilderness location unspecified</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>The dramatic cliff west of Jericho has a long monastic tradition</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>connecting it with Jesus&#x27;s temptation after baptism and fits the</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>Judean wilderness landscape.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The Gospels name only the wilderness and do not identify a</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>mountain beside Jericho. The monastery marks a devotional</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>tradition, not a textually fixed site.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenStreetMap copyright and ODbL attribution</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openstreetmap.org/copyright</value></Data></ExtendedData>
+<Point><coordinates>35.431200,31.874500,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>4 — Emmaus: competing identifications</name><open>0</open><visibility>0</visibility>
+<Placemark>
+<name>Emmaus candidate — Qalunya / Motza</name>
+<styleUrl>#category-4</styleUrl>
+<Snippet maxLines="4">Leading distance-based candidate; disputed. Qalunya/Motza lies close to the approximately sixty-stadia distance found in most manuscripts of Luke and has an ancient settlement context west of Jerusalem.</Snippet>
+<description><![CDATA[ASSESSMENT
+Leading distance-based candidate; disputed
+
+RELEVANT PASSAGES
+Luke 24:13-35
+
+WHY THE MARKER IS HERE
+Qalunya/Motza lies close to the approximately sixty-stadia distance found in most manuscripts of Luke and has an ancient settlement context west of Jerusalem.
+
+WHAT REMAINS UNCERTAIN
+No consensus exists. Identifying the Gospel village with Motza depends on name-history and distance arguments that do not provide a decisive match.
+
+SCRIPTURE LINKS
+- Luke 24:13-35: https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: six proposed identifications of Emmaus: https://www.openbible.info/geo/ancient/ae7274b/emmaus
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Leading distance-based candidate; disputed</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 24:13-35</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Qalunya/Motza lies close to the approximately sixty-stadia</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>distance found in most manuscripts of Luke and has an ancient</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>settlement context west of Jerusalem.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>No consensus exists. Identifying the Gospel village with Motza</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>depends on name-history and distance arguments that do not</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>provide a decisive match.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: six proposed identifications of Emmaus</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/ancient/ae7274b/emmaus</value></Data></ExtendedData>
+<Point><coordinates>35.164600,31.793500,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Emmaus candidate — Nicopolis</name>
+<styleUrl>#category-4</styleUrl>
+<Snippet maxLines="4">Ancient identification; distance-text problem. Emmaus Nicopolis has the strongest surviving ancient place-name and became the principal Byzantine identification.</Snippet>
+<description><![CDATA[ASSESSMENT
+Ancient identification; distance-text problem
+
+RELEVANT PASSAGES
+Luke 24:13-35
+
+WHY THE MARKER IS HERE
+Emmaus Nicopolis has the strongest surviving ancient place-name and became the principal Byzantine identification.
+
+WHAT REMAINS UNCERTAIN
+It is roughly 160 rather than 60 stadia from Jerusalem. A minority textual variant reads 160, but the longer same-day walking narrative is difficult and the manuscript evidence is contested.
+
+SCRIPTURE LINKS
+- Luke 24:13-35: https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: six proposed identifications of Emmaus: https://www.openbible.info/geo/ancient/ae7274b/emmaus
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Ancient identification; distance-text problem</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 24:13-35</value></Data><Data name="Why here 1/2"><displayName>Why here 1/2</displayName><value>Emmaus Nicopolis has the strongest surviving ancient place-name</value></Data><Data name="Why here 2/2"><displayName>Why here 2/2</displayName><value>and became the principal Byzantine identification.</value></Data><Data name="Uncertainty 1/4"><displayName>Uncertainty 1/4</displayName><value>It is roughly 160 rather than 60 stadia from Jerusalem. A</value></Data><Data name="Uncertainty 2/4"><displayName>Uncertainty 2/4</displayName><value>minority textual variant reads 160, but the longer same-day</value></Data><Data name="Uncertainty 3/4"><displayName>Uncertainty 3/4</displayName><value>walking narrative is difficult and the manuscript evidence is</value></Data><Data name="Uncertainty 4/4"><displayName>Uncertainty 4/4</displayName><value>contested.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: six proposed identifications of Emmaus</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/ancient/ae7274b/emmaus</value></Data></ExtendedData>
+<Point><coordinates>34.989360,31.839300,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Emmaus candidate — el-Qubeibeh</name>
+<styleUrl>#category-4</styleUrl>
+<Snippet maxLines="4">Medieval tradition; disputed. El-Qubeibeh lies northwest of Jerusalem at a broadly plausible walking distance and became the Franciscan Emmaus tradition in the later medieval period.</Snippet>
+<description><![CDATA[ASSESSMENT
+Medieval tradition; disputed
+
+RELEVANT PASSAGES
+Luke 24:13-35
+
+WHY THE MARKER IS HERE
+El-Qubeibeh lies northwest of Jerusalem at a broadly plausible walking distance and became the Franciscan Emmaus tradition in the later medieval period.
+
+WHAT REMAINS UNCERTAIN
+The identification is late and lacks a convincing ancient name connection. It is one candidate among several rather than the established village.
+
+SCRIPTURE LINKS
+- Luke 24:13-35: https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: six proposed identifications of Emmaus: https://www.openbible.info/geo/ancient/ae7274b/emmaus
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Medieval tradition; disputed</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 24:13-35</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>El-Qubeibeh lies northwest of Jerusalem at a broadly plausible</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>walking distance and became the Franciscan Emmaus tradition in</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>the later medieval period.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The identification is late and lacks a convincing ancient name</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>connection. It is one candidate among several rather than the</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>established village.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: six proposed identifications of Emmaus</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/ancient/ae7274b/emmaus</value></Data></ExtendedData>
+<Point><coordinates>35.109700,31.839900,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Emmaus candidate — Abu Ghosh</name>
+<styleUrl>#category-4</styleUrl>
+<Snippet maxLines="4">Crusader tradition; disputed. Crusaders identified Abu Ghosh with Emmaus and built a substantial church there; its location on the westward road made it a persuasive pilgrimage station.</Snippet>
+<description><![CDATA[ASSESSMENT
+Crusader tradition; disputed
+
+RELEVANT PASSAGES
+Luke 24:13-35
+
+WHY THE MARKER IS HERE
+Crusaders identified Abu Ghosh with Emmaus and built a substantial church there; its location on the westward road made it a persuasive pilgrimage station.
+
+WHAT REMAINS UNCERTAIN
+The tradition is much later than the Gospel and the distance does not resolve the competing proposals. It should not be presented as the certain Emmaus.
+
+SCRIPTURE LINKS
+- Luke 24:13-35: https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NRSVUE
+
+REFERENCES
+- OpenBible.info: six proposed identifications of Emmaus: https://www.openbible.info/geo/ancient/ae7274b/emmaus
+
+Coordinates mark a modern site or representative point; they do not claim centimeter-level location of an ancient event.]]></description>
+<ExtendedData><Data name="Assessment"><displayName>Assessment</displayName><value>Crusader tradition; disputed</value></Data><Data name="Passages"><displayName>Passages</displayName><value>Luke 24:13-35</value></Data><Data name="Why here 1/3"><displayName>Why here 1/3</displayName><value>Crusaders identified Abu Ghosh with Emmaus and built a</value></Data><Data name="Why here 2/3"><displayName>Why here 2/3</displayName><value>substantial church there; its location on the westward road made</value></Data><Data name="Why here 3/3"><displayName>Why here 3/3</displayName><value>it a persuasive pilgrimage station.</value></Data><Data name="Uncertainty 1/3"><displayName>Uncertainty 1/3</displayName><value>The tradition is much later than the Gospel and the distance</value></Data><Data name="Uncertainty 2/3"><displayName>Uncertainty 2/3</displayName><value>does not resolve the competing proposals. It should not be</value></Data><Data name="Uncertainty 3/3"><displayName>Uncertainty 3/3</displayName><value>presented as the certain Emmaus.</value></Data><Data name="Source 1"><displayName>Source 1</displayName><value>OpenBible.info: six proposed identifications of Emmaus</value></Data><Data name="Source 1 URL — click to copy"><displayName>Source 1 URL — click to copy</displayName><value>https://www.openbible.info/geo/ancient/ae7274b/emmaus</value></Data></ExtendedData>
+<Point><coordinates>35.109200,31.805800,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>5 — Schematic routes (off by default)</name><visibility>0</visibility>
+<Style id="route-approximate-palm-sunday-landscape-route"><LineStyle><color>ff00aa00</color><width>4</width></LineStyle></Style>
+<Placemark>
+<name>Approximate Palm Sunday landscape route</name>
+<styleUrl>#route-approximate-palm-sunday-landscape-route</styleUrl>
+<description><![CDATA[<p>A schematic line joining Bethany, traditional Bethphage, the Mount of Olives, Kidron, and the Temple area. It visualizes the named sequence in the Synoptic Gospels; it is not a claim that every segment follows the first-century road.</p><p><b>Caution:</b> Schematic interpretive line, not a GPS reconstruction.</p>]]></description>
+<LineString><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>35.265200,31.770900,0 35.250840,31.777620,0 35.243890,31.778330,0 35.238400,31.777520,0 35.235830,31.778060,0</coordinates></LineString>
+</Placemark>
+<Style id="route-traditional-via-dolorosa-framework-antonia-theory"><LineStyle><color>ff0000ff</color><width>4</width></LineStyle></Style>
+<Placemark>
+<name>Traditional Via Dolorosa framework (Antonia theory)</name>
+<styleUrl>#route-traditional-via-dolorosa-framework-antonia-theory</styleUrl>
+<description><![CDATA[<p>A schematic version of the eastern devotional route from the Antonia/Ecce Homo area to the Holy Sepulchre. The present stations developed over time, and the route depends on the disputed Antonia-praetorium identification.</p><p><b>Caution:</b> Schematic interpretive line, not a GPS reconstruction.</p>]]></description>
+<LineString><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>35.233990,31.780560,0 35.232800,31.780100,0 35.231400,31.779100,0 35.229720,31.778330,0</coordinates></LineString>
+</Placemark>
+<Style id="route-western-palace-passion-route-hypothesis"><LineStyle><color>ffff8800</color><width>4</width></LineStyle></Style>
+<Placemark>
+<name>Western-palace Passion route hypothesis</name>
+<styleUrl>#route-western-palace-passion-route-hypothesis</styleUrl>
+<description><![CDATA[<p>A schematic route from Herod&#x27;s western palace, the leading modern praetorium candidate, toward the Holy Sepulchre quarry area. The precise first-century streets and execution procession are unrecoverable.</p><p><b>Caution:</b> Schematic interpretive line, not a GPS reconstruction.</p>]]></description>
+<LineString><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>35.228200,31.776100,0 35.228800,31.777000,0 35.229720,31.778330,0</coordinates></LineString>
+</Placemark>
+</Folder>
+<Folder><name>6 — Read me and source method</name><open>1</open>
+<Placemark><name>Start here — evidence and certainty</name>
+<description><![CDATA[<h2>How to interpret this map</h2><p><b>Strong geographic identification</b> means the town, pool, valley, ridge, or monumental platform is reasonably identifiable. It does not prove that a particular event occurred on the pin.</p><p><b>Plausible</b> means geography, archaeology, and/or early tradition make the vicinity defensible, while an exact location remains unproved.</p><p><b>Later tradition or alternative</b> documents an important pilgrimage identification but should not be confused with archaeological demonstration.</p><p>Biblical citations identify the narrative basis. External references explain geographical or archaeological reasoning. Coordinates use modern map data and are intended for visualization.</p>]]></description>
+<Point><coordinates>35.23417,31.77667,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>
